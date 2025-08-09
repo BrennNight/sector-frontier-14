@@ -459,9 +459,11 @@
         sound:
           collection: MetalSlam
       - !type:ChangeConstructionNodeBehavior
-        node: reinforcedWall
+        node: girder
       - !type:DoActsBehavior
         acts: ["Destruction"]
   - type: IconSmooth
     key: walls
     base: silver
+  - type: StaticPrice
+    price: 500
