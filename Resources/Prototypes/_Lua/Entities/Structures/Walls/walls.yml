@@ -435,7 +435,7 @@
     sprite: _Lua/Structures/Walls/Softwall.rsi
   - type: Construction
     graph: Girder
-    node: softWall
+    node: reinforcedWall
   - type: RCDDeconstructable
     cost: 6
     delay: 8
