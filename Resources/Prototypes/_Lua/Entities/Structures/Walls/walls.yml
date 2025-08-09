@@ -459,7 +459,7 @@
         sound:
           collection: MetalSlam
       - !type:ChangeConstructionNodeBehavior
-        node: girder
+        node: reinforcedWall
       - !type:DoActsBehavior
         acts: ["Destruction"]
   - type: IconSmooth
